@@ -1,0 +1,20 @@
+{
+    "name": "nwregeress",
+    "version": "1.0.0",
+    "description": "",
+    "main": "nightwatch.conf.js",
+    "dependencies": {
+        "chromedriver": "^2.27.3",
+        "cucumber": "4.0.0 - 4.2.1",
+        "nightwatch": "^1.2.4",
+        "nightwatch-cucumber": "^7.0.10",
+        "phantomjs-prebuilt": "^2.1.14",
+        "selenium-server": "^3.3.0"
+    },
+    "devDependencies": {},
+    "scripts": {
+        "test": "nightwatch --env chrome"
+    },
+    "author": "",
+    "license": "ISC"
+}

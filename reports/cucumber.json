@@ -1,0 +1,269 @@
+[
+  {
+    "keyword": "Feature",
+    "line": 1,
+    "name": "BGP Eligible Criteria",
+    "tags": [],
+    "uri": "C:\\Users\\sanjay\\git\\nightwatchcucumber\\features\\BGP-User.feature",
+    "elements": [
+      {
+        "keyword": "Scenario",
+        "line": 3,
+        "name": "AC1-1",
+        "tags": [],
+        "id": "bgp-eligible-criteria;ac1-1",
+        "steps": [
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "name": "User navigate to BGP Page",
+            "result": {
+              "status": "passed",
+              "duration": 7416
+            },
+            "line": 5,
+            "match": {
+              "location": "C:\\Users\\sanjay\\git\\nightwatchcucumber\\features\\step_definitions\\BGP-steps.js:6"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "name": "I click on the BGP User ID",
+            "result": {
+              "status": "passed",
+              "duration": 218
+            },
+            "line": 6,
+            "match": {
+              "location": "C:\\Users\\sanjay\\git\\nightwatchcucumber\\features\\step_definitions\\BGP-steps.js:13"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "name": "I click on the login button",
+            "result": {
+              "status": "passed",
+              "duration": 1587
+            },
+            "line": 7,
+            "match": {
+              "location": "C:\\Users\\sanjay\\git\\nightwatchcucumber\\features\\step_definitions\\BGP-steps.js:19"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "name": "I click on the grand new button",
+            "result": {
+              "status": "passed",
+              "duration": 8470
+            },
+            "line": 8,
+            "match": {
+              "location": "C:\\Users\\sanjay\\git\\nightwatchcucumber\\features\\step_definitions\\BGP-steps.js:23"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "name": "I click on the building & construction button",
+            "result": {
+              "status": "passed",
+              "duration": 8355
+            },
+            "line": 9,
+            "match": {
+              "location": "C:\\Users\\sanjay\\git\\nightwatchcucumber\\features\\step_definitions\\BGP-steps.js:29"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "name": "I click on the select grand button",
+            "result": {
+              "status": "passed",
+              "duration": 1152
+            },
+            "line": 10,
+            "match": {
+              "location": "C:\\Users\\sanjay\\git\\nightwatchcucumber\\features\\step_definitions\\BGP-steps.js:38"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "name": "I click on the devlop grand button",
+            "result": {
+              "status": "passed",
+              "duration": 5148
+            },
+            "line": 11,
+            "match": {
+              "location": "C:\\Users\\sanjay\\git\\nightwatchcucumber\\features\\step_definitions\\BGP-steps.js:44"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "name": "I click on the apply button",
+            "result": {
+              "status": "passed",
+              "duration": 5152
+            },
+            "line": 12,
+            "match": {
+              "location": "C:\\Users\\sanjay\\git\\nightwatchcucumber\\features\\step_definitions\\BGP-steps.js:50"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "name": "I click on the proceed button",
+            "result": {
+              "status": "passed",
+              "duration": 6558
+            },
+            "line": 13,
+            "match": {
+              "location": "C:\\Users\\sanjay\\git\\nightwatchcucumber\\features\\step_definitions\\BGP-steps.js:56"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "name": "I click on the eligible criteria",
+            "result": {
+              "status": "passed",
+              "duration": 1173
+            },
+            "line": 14,
+            "match": {
+              "location": "C:\\Users\\sanjay\\git\\nightwatchcucumber\\features\\step_definitions\\BGP-steps.js:62"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "name": "verify the Next button and side menu should disable",
+            "result": {
+              "status": "passed",
+              "duration": 112
+            },
+            "line": 15,
+            "match": {
+              "location": "C:\\Users\\sanjay\\git\\nightwatchcucumber\\features\\step_definitions\\BGP-steps.js:69"
+            }
+          }
+        ]
+      },
+      {
+        "keyword": "Scenario",
+        "line": 17,
+        "name": "AC1-2",
+        "tags": [],
+        "id": "bgp-eligible-criteria;ac1-2",
+        "steps": [
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "name": "user click on the  Yes button eligible critiria",
+            "result": {
+              "status": "passed",
+              "duration": 5158
+            },
+            "line": 19,
+            "match": {
+              "location": "C:\\Users\\sanjay\\git\\nightwatchcucumber\\features\\step_definitions\\BGP-steps.js:78"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "name": "NEXT button should enable",
+            "result": {
+              "status": "passed",
+              "duration": 82
+            },
+            "line": 20,
+            "match": {
+              "location": "C:\\Users\\sanjay\\git\\nightwatchcucumber\\features\\step_definitions\\BGP-steps.js:85"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "name": "Side Menu should enable",
+            "result": {
+              "status": "passed",
+              "duration": 81
+            },
+            "line": 21,
+            "match": {
+              "location": "C:\\Users\\sanjay\\git\\nightwatchcucumber\\features\\step_definitions\\BGP-steps.js:91"
+            }
+          }
+        ]
+      },
+      {
+        "keyword": "Scenario",
+        "line": 24,
+        "name": "AC1-3",
+        "tags": [],
+        "id": "bgp-eligible-criteria;ac1-3",
+        "steps": [
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "name": "user click on the  No button eligible critiria",
+            "result": {
+              "status": "passed",
+              "duration": 1146
+            },
+            "line": 25,
+            "match": {
+              "location": "C:\\Users\\sanjay\\git\\nightwatchcucumber\\features\\step_definitions\\BGP-steps.js:96"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "name": "I should see triggers warning message",
+            "result": {
+              "status": "passed",
+              "duration": 72
+            },
+            "line": 26,
+            "match": {
+              "location": "C:\\Users\\sanjay\\git\\nightwatchcucumber\\features\\step_definitions\\BGP-steps.js:103"
+            }
+          }
+        ]
+      },
+      {
+        "keyword": "Scenario",
+        "line": 28,
+        "name": "AC1-4",
+        "tags": [],
+        "id": "bgp-eligible-criteria;ac1-4",
+        "steps": [
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "name": "User click on the smart Advisor link should navigate",
+            "result": {
+              "status": "passed",
+              "duration": 1174
+            },
+            "line": 29,
+            "match": {
+              "location": "C:\\Users\\sanjay\\git\\nightwatchcucumber\\features\\step_definitions\\BGP-steps.js:109"
+            }
+          }
+        ]
+      }
+    ],
+    "id": "bgp-eligible-criteria"
+  }
+]
