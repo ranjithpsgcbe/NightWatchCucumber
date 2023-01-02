@@ -6,7 +6,7 @@
     "dependencies": {
         "chromedriver": "^2.27.3",
         "cucumber": "4.0.0 - 4.2.1",
-        "nightwatch": "^1.2.4",
+        "nightwatch": "^2.6.4",
         "nightwatch-cucumber": "^7.0.10",
         "phantomjs-prebuilt": "^2.1.14",
         "selenium-server": "^3.3.0"
