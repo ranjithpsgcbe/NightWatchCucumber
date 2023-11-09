@@ -4,7 +4,7 @@
     "description": "",
     "main": "nightwatch.conf.js",
     "dependencies": {
-        "chromedriver": "^2.27.3",
+        "chromedriver": "^119.0.1",
         "cucumber": "4.0.0 - 4.2.1",
         "nightwatch": "^1.2.4",
         "nightwatch-cucumber": "^7.0.10",
